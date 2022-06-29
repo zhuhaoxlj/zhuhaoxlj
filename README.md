@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**zhuhaoxlj/zhuhaoxlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Godot,GUI,Web,C
+- 🤔 I’m looking for help with GUI,Game,make money
+- 💬 Ask me about Game,Godot.
+- 📫 How to reach me: bilibili,github,gitee
+- ⚡ Fun fact: 666
