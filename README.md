@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CNN,Transformer,Swift UI
-- 🤔 I’m looking for help with Swift UI,Game Development,Make money
+- 🌱 I’m currently learning Android,Flutter,Swift UI
+- 🤔 I’m looking for help with Swift UI,Game Development
 - 💬 Ask me about Swift UI,Computer Vision.
 - 📫 How to reach me: bilibili,github,gitee
 - ⚡ Fun fact: 666
