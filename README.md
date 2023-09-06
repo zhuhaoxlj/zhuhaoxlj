@@ -8,8 +8,6 @@
 
 ![MarkGosling's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuhaoxlj&show_icons=true&count_private=true)
 
-![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=zhuhaoxlj)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhaoxlj&langs_count=30&layout=compact&hide=html)
 
 
