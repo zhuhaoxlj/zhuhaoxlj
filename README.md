@@ -6,6 +6,6 @@
 - 📫 How to reach me: bilibili,github,gitee
 - ⚡ Fun fact: 666
 
-![MarkGosling's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuhaoxlj&show_icons=true)
+![MarkGosling's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuhaoxlj&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhaoxlj&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
