@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<!--Replace <username> with your own GitHub username.-->
+https://pixel-profile.vercel.app/api/github-stats?username=zhuhaoxlj
 - 🌱 I’m currently learning Android,Flutter,Swift UI
 - 🤔 I’m looking for help with Swift UI,Game Development
 - 💬 Ask me about Swift UI,Computer Vision.
