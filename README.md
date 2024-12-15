@@ -11,7 +11,7 @@
 - 📫 How to reach me: bilibili,github,gitee
 - ⚡ Fun fact: 666
 
-![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=zhuhaoxlj)
+![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=zhuhaoxlj&langs_count=10)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=56185765&activity_type=all" target="_blank" style="display: block" align="center">
   <picture>
